@@ -1,0 +1,156 @@
+[
+    {
+        "playerId": 1,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://media.gettyimages.com/id/2156775068/photo/new-york-new-york-babar-azam-of-pakistan-looks-on-during-the-warm-up-prior-to-the-icc-mens.jpg?s=612x612&w=0&k=20&c=Tq2_qBA-y3NmmBcLCaiZdvWOXuC76fyeBwW9YMdtvpo=",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1200000,
+        "rating": 5
+    },
+    {
+        "playerId": 2,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "image": "https://media.gettyimages.com/id/631051170/photo/sydney-australia-australian-captain-steve-smith-looks-on-during-day-four-of-the-third-test.jpg?s=612x612&w=0&k=20&c=Og7VPvANAeoSRXJxJdgMle-SlDYu21-R3GY0tXbefXs=",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1300000,
+        "rating": 4
+    },
+    {
+        "playerId": 3,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://media.gettyimages.com/id/1989265995/photo/mount-maunganui-new-zealand-kane-williamson-of-new-zealand-raises-his-bat-after-scoring-a.jpg?s=612x612&w=0&k=20&c=uB5Ud3B2RgO-rhjjNvHCfyc1zJ5KWXcCk1uqdmmME7I=",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1250000,
+        "rating": 5
+    },
+    {
+        "playerId": 4,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://media.gettyimages.com/id/1409776304/photo/chester-le-street-england-england-batsman-ben-stokes-acknowledges-the-applause-as-he-leaves.jpg?s=612x612&w=0&k=20&c=hjPgXz3WkM_hDG9ZEgCk5sYzAMutdZwAQOuIyWjt9lw=",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Fast",
+        "biddingPrice": 1600000,
+        "rating": 4
+    },
+    {
+        "playerId": 5,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://media.gettyimages.com/id/2121041114/photo/topshot-gujarat-titans-rashid-khan-celebrates-after-the-dismissal-of-sunrisers-hyderabads.jpg?s=612x612&w=gi&k=20&c=JaCyfEdJOqRdsPplFPZX-P3SSvR-I67Zo9TJObHPhLs=",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Leg-spin",
+        "biddingPrice": 1300000,
+        "rating": 5
+    },
+    {
+        "playerId": 6,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://media.gettyimages.com/id/1754010602/photo/mumbai-india-quinton-de-kock-of-south-africa-makes-their-way-off-after-being-dismissed-for.jpg?s=612x612&w=0&k=20&c=sFPaDpuF3BOT3KktVfbaXKTUUo1B9NRwLVqhmXGnTv0=",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1150000,
+        "rating": 4
+    },
+    {
+        "playerId": 7,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://media.gettyimages.com/id/1754010602/photo/mumbai-india-quinton-de-kock-of-south-africa-makes-their-way-off-after-being-dismissed-for.jpg?s=612x612&w=0&k=20&c=sFPaDpuF3BOT3KktVfbaXKTUUo1B9NRwLVqhmXGnTv0=",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": 1250000,
+        "rating": 5
+    },
+    {
+        "playerId": 8,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://media.gettyimages.com/id/1746279510/photo/bangalore-india-david-warner-of-australia-celebrates-their-century-during-the-icc-mens.jpg?s=612x612&w=0&k=20&c=EB5Fd5O_nHfASPmapfhHN5-ndmgDqTaZbdeAcT0XW7w=",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1400000,
+        "rating": 4
+    },
+    {
+        "playerId": 9,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "image": "https://media.gettyimages.com/id/1248450922/photo/mumbai-india-mitchell-starc-of-australia-bowls-during-the-first-game-in-the-one-day.jpg?s=612x612&w=0&k=20&c=O9JtXdhguL84A_4BW_wc0xULhlMh0Ad-NuwVzL0XS8g=",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 1350000,
+        "rating": 5
+    },
+    {
+        "playerId": 10,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://media.gettyimages.com/id/1784008183/photo/bangalore-india-trent-boult-of-new-zealand-poses-after-being-named-player-of-the-match.jpg?s=612x612&w=0&k=20&c=5GrqAeURiikvZBZT8U0RURapsTMPQVzDgqLl2GFskVQ=",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 1250000,
+        "rating": 5
+    },
+    {
+        "playerId": 11,
+        "name": "Jos Buttler",
+        "country": "England",
+        "image": "https://media.gettyimages.com/id/1440486160/photo/adelaide-australia-jos-buttler-of-england-celebrates-victory-during-the-icc-mens-t20-world.jpg?s=612x612&w=0&k=20&c=sxWrsu0zq8cI-m9K6N5ARCLJusU92OP32NOmkqC341g=",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1100000,
+        "rating": 4
+    },
+    {
+        "playerId": 12,
+        "name": "Shreyas Iyer",
+        "country": "India",
+        "image": "https://media.gettyimages.com/id/1686266456/photo/indore-india-shreyas-iyer-of-india-celebrates-after-scoring-a-hundred-during-game-two-of-the.jpg?s=612x612&w=0&k=20&c=NXHHggjBJqjhG2yBvKSL36R2Cr0PHZZ8KXZUS_2HDAE=",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1000000,
+        "rating": 5
+    },
+    {
+        "playerId": 13,
+        "name": "Mohammad Nabi",
+        "country": "Afghanistan",
+        "image": "https://media.gettyimages.com/id/1737145367/photo/delhi-india-mohammad-nabi-of-afghanistan-celebrates-the-wicket-of-dawid-malan-of-england.jpg?s=612x612&w=0&k=20&c=Y7EUHH-mvO2ITj2H8SZEOzBb7_rTFEryX3BH5x-U4QI=",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Off-spin",
+        "biddingPrice": 900000,
+        "rating": 3
+    },
+    {
+        "playerId": 14,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://media.gettyimages.com/id/1780353978/photo/mumbai-india-glenn-maxwell-of-australia-celebrates-after-hitting-a-six-for-the-winning-runs.jpg?s=612x612&w=0&k=20&c=DngyQd37YHvzZ9HlGo-LKJu6WgipgR95urqB8I-KwXk=",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Off-spin",
+        "biddingPrice": 1300000,
+        "rating": 5
+    }
+]
